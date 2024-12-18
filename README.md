@@ -9,7 +9,7 @@ SpokenGPT is a cloud API-based speaking practice application that integrates spe
 
 ## Features
 
-### 2.1 Implemented Functions
+### Implemented Functions
 
 - **Speech Recognition**: Converts spoken language into text for processing.
 - **Conversational AI (GPT)**: Engages in natural language conversations, providing a responsive and interactive experience.
