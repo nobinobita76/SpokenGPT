@@ -56,3 +56,8 @@ SpokenGPT 提供两种不同的对话练习模式：
    npm install
    ```
    启动前端应用。（Vue）
+   
+   后端应用程序已经构建为 `dist\` 目录，你可以直接运行 `app.py` 来启动整个应用程序。
+   ```bash
+   python app.py
+   ```
