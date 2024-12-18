@@ -58,4 +58,9 @@ To get started with SpokenGPT, follow these steps:
    ```bash
    npm install
    ```
-   and run frontend app. (Vue) 
+   and run frontend app. (Vue)
+   
+   Backend App has been built as `dist\`, you can just run app.py to run the entire app.
+   ```bash
+   python app.py
+   ```
