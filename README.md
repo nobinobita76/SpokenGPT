@@ -64,3 +64,5 @@ To get started with SpokenGPT, follow these steps:
    ```bash
    python app.py
    ```
+  #### Frinedly Link
+  [FileReaderAssistant](https://gitee.com/juventus_bupt/file-reader-assistant) 
