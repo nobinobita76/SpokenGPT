@@ -59,3 +59,7 @@ SpokenGPT 提供两种不同的对话练习模式：
    ```bash
    python app.py
    ```
+
+  #### 友情连接
+  [文档智能分析系统](https://gitee.com/juventus_bupt/file-reader-assistant)
+  
